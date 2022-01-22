@@ -1,0 +1,40 @@
+
+#navbar
+{
+    flex-direction: column;
+}
+#container
+{
+    flex-direction: column;
+}
+section h1#sech1
+{
+    font-size: 22px;
+}
+section p#secp1
+{
+    font-size: 12px;
+}
+section p#secp2
+{
+    font-size: 12px;
+}
+#section
+{
+     height: 395px; 
+     
+}
+#container
+{
+    height: 825px;
+}
+#sec2h1
+{
+
+  margin-top: 2px;  
+  padding: 10px;
+}
+#btn
+{
+    padding: 3px 10px;  
+}

@@ -1,0 +1,23 @@
+#container {
+    height: 1021px;
+}
+section h1#sech1 {
+    font-size: 18px;
+}
+section p#secp1 {
+    font-size: 10px;
+}
+section p#secp2 {
+    font-size: 10px;
+}
+#btn {
+    padding: 2px 4px;
+}
+#sec2h1
+{
+    font-size: 32px;
+}
+#footer
+{
+    font-size: 13px;
+}
